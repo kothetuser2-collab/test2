@@ -1,0 +1,6 @@
+pytelegrambotapi
+curl_cffi
+numpy
+opencv-python-headless
+paddlepaddle
+paddleocr
